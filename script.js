@@ -7,3 +7,16 @@ const quoteArray = [
 'Not surprisingly, more siestas means more productivity. — Wall Street Journal',
 'NAPS is doing the hard work of helping people get the rest they need. — U.S. News'
 ]
+function generateRandomNumber () {
+  letrndNum=math.random(math.floor*7);
+  random rndNum;
+}
+function generateQuote (num) {
+
+document.getElementById('press-quote').textContent = quoteArray[]
+}
+
+function buildPage() {
+    generateQuote(generateRandomNumber);
+}
+buildpage();
